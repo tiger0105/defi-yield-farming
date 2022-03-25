@@ -83,8 +83,6 @@ Here is the application software architecture work-flow:
 
       truffle exec scripts/issue-tokens.js
 
-## Author
-Kei Nakano
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
